@@ -17,3 +17,7 @@ indent_size = 4
 [*.{h,hpp,c,cc,cpp}]
 indent_style = tab
 tab_width = 8
+
+[{Makefile,go.mod,go.sum,*.go,.gitmodules}]
+indent_style = tab
+indent_size = 4
